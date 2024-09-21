@@ -3,7 +3,6 @@ gdown
 transformers
 pypdf
 llama-index
-pip install --upgrade pip
 
 # Add a new line to separate the torch installation
 torch==2.2.0 -f https://download.pytorch.org/whl/torch_stable.html
