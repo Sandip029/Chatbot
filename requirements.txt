@@ -2,4 +2,5 @@ streamlit
 gdown
 transformers
 pypdf
-llama-index
+llama-index==0.10.12
+torch
