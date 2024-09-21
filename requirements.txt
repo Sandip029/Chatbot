@@ -2,7 +2,7 @@ streamlit
 gdown
 transformers
 pypdf
-llama-index>=0.11.0
+llama-index
 
 # Add a new line to separate the torch installation
 torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
