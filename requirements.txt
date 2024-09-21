@@ -1,11 +1,5 @@
 streamlit
 gdown
-transformers==4.31.0
+transformers
 pypdf
-python-dotenv
-llama-index==0.10.12
-gradio==3.26.0
-einops
-accelerate
-llama-index-llms-huggingface
-llama-index-embeddings-fastembed
+llama-index
